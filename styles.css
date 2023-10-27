@@ -134,3 +134,133 @@ nav {
 .li_services h3 {
     margin: 10px;
 }
+
+/* PRICE AND PLAN SECTION */
+
+.plan_price_title {
+    margin: 75px 0;
+    text-align: center;
+}
+
+.plan_price_title h2 {
+    font-size: 40px;
+}
+
+.plan_price_title p {
+    font-size: 20px;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 50px 0 0;
+    max-width: 960px;
+    width: 100%;
+}
+
+.panel {
+    background-color: var(--color-4);
+    border-radius: 10px;
+    padding: 15px 25px;
+    position: relative;
+    z-index: 10;
+}
+
+.pricing_table {
+    box-shadow: 0px 10px 13px -6px rgba(0, 0, 0, 0.08), 0px 20px 31px 3px rgba(0, 0, 0, 0.09), 0px 8px 20px 7px rgba(0, 0, 0, 0.02);
+    display: flex;
+    flex-direction: column;
+}
+
+.pricing_table * {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.pricing_plan {
+    border-bottom: 1px solid var(--color-7);
+    padding: 25px;
+}
+
+.pricing_plan:last-child {
+    border-bottom: none;
+}
+
+.pricing_img {
+    margin-bottom: 25px;
+    max-width: 100%;
+    transition: 0.5s;
+}
+
+.pricing_img:hover {
+    transform: scale(1.2);
+}
+
+.pricing_header {
+    color: var(--color-8);
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.pricing_features {
+    color: var(--color-9);
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 50px 0 25px;
+}
+
+.pricing_features_item {
+    border-top: 1px solid var(--color-7);
+    list-style-type: none;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 15px 0;
+}
+
+.pricing_features-item:last-child {
+    border-bottom: 1px solid var(--color-7);
+}
+
+.pricing_price {
+    color: var(--color-9);
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.pricing_features_item:hover,
+.pricing_price:hover {
+    color: var(--color-8);
+    transform: scale(1.1)
+}
+
+.pricing_button {
+    border: 1px solid #9dd1ff;
+    border-radius: 10px;
+    color: var(--color-11);
+    display: inline-block;
+    margin: 25px 0;
+    padding: 15px 35px;
+    text-decoration: none;
+    transition: all 150ms ease-in-out;
+}
+
+.pricing_button:hover,
+.pricing_button:focus {
+    background-color: var(--color-7);
+    transform: scale(1.1)
+}
+
+.pricing_button.is-featured {
+    background-color: var(--color-12);
+    color: var(--color-4);
+}
+
+.pricing_button.is-featured:hover,
+.pricing_button.is-featured:active {
+    background-color: var(--color-13);
+}
+
