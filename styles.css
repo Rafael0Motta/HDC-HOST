@@ -360,3 +360,89 @@ nav {
 .form_container button:hover {
     transform: scale(1.1);
 }
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    margin: 0px 0 50px;
+}
+
+/* RESPONSIVIDADE */
+
+@media (min-width: 900px) {
+
+
+    p {
+        font-size: 18px;
+    }
+
+    h1, h2, h3 {
+        font-size: 20px;
+    }
+
+    .pricing_table {
+        flex-direction: row;
+    }
+
+    .pricing_plan {
+        border-bottom: none;
+        border-right: 1px solid var(--color-16);
+        flex-basis: 100%;
+        padding: 25px 50px;
+    }
+
+    .pricing_plan:last-child {
+        border-right: none;
+    }
+}
+
+/* SMARTPHONE */
+@media (max-width: 767px) {
+    p {
+        font-size: 15px;
+    }
+
+    h1, h2, h3 {
+        font-size: 17px;
+    }
+
+    .nav_container img {
+        width: 45px;
+        margin: 20px 0 0 10px;
+    }
+
+    .nav_itens {
+        margin: 0 15px 0 0;
+    }
+
+    .nav_itens li {
+        margin: 0 0 0 3px;
+        font-size: 15px;
+    }
+
+    .li_services h3 {
+        margin: 10px 0 10px 0;
+    }
+
+    .services_container ul {
+        flex-direction: column;
+    }
+
+    .services_container li {
+        width: auto;
+    }
+
+    .container {
+        padding: 0;
+    }
+
+    .contact_container input, .contact_container textarea {
+        width: 60%;
+    }
+
+    .contact_container {
+        padding: 1rem;
+    }
+}
