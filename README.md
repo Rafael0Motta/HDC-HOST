@@ -4,26 +4,22 @@ O HDC Host é um projeto desenvolvido utilizando tecnologias web, incluindo HTML
 
 ### Recursos e Tecnologias Utilizadas
 
- + HTML: Utilizado para estruturar o conteúdo da página.
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
- + CSS: Responsável pelo design e estilo visual do site.
-
- + JavaScript: Implementado para tornar a página interativa e dinâmica.
-
- + API Domain Check: Integramos a API Domain Check para possibilitar a verificação em tempo real da disponibilidade de domínios.
+ + <b> API Domain Check </b>: Integramos a API Domain Check para possibilitar a verificação em tempo real da disponibilidade de domínios.
 
 ### Funcionalidades
 
- + Planos e Benefícios: Apresentação detalhada dos planos oferecidos pela empresa, juntamente com os benefícios de cada um.
+ + <b>Planos e Benefícios</b>: Apresentação detalhada dos planos oferecidos pela empresa, juntamente com os benefícios de cada um.
 
- + Formulários de Contato: Fornecemos formulários de contato para facilitar a comunicação com nossos clientes.
+ + <b>Formulários de Contato</b>: Fornecemos formulários de contato para facilitar a comunicação com nossos clientes.
 
- + Verificação de Disponibilidade de Domínio: Oferecemos uma funcionalidade que permite aos usuários verificar a disponibilidade de um domínio de forma rápida e eficiente, com base na integração com a API Domain Check.
+ + <b>Verificação de Disponibilidade de Domínio</b>: Oferecemos uma funcionalidade que permite aos usuários verificar a disponibilidade de um domínio de forma rápida e eficiente, com base na integração com a API Domain Check.
 
 ### Visualização
-Para acessa o site clique no link ao lado: [HDC Host](https://hdc-host-1.netlify.app/). <br>
-Para ter acesso ao Figma do projeto, clique no link ao lado: [Figma](https://www.figma.com/file/7UfovFzsc5quec8a7Db11k/hdc-host?type=design&node-id=0%3A1&mode=design&t=OixkMsyrOFI7ILoC-1). <br> 
-Api utilizada no projeto: [ApiRapid](https://rapidapi.com/pt/MASNathan/api/domain-checker7/).
+<b>Para acessa o site clique no link ao lado</b>: [HDC Host](https://hdc-host-1.netlify.app/). <br>
+<b>Para ter acesso ao Figma do projeto, clique no link ao lado</b>: [Figma](https://www.figma.com/file/7UfovFzsc5quec8a7Db11k/hdc-host?type=design&node-id=0%3A1&mode=design&t=OixkMsyrOFI7ILoC-1). <br> 
+<b>Api utilizada no projeto</b>: [ApiRapid](https://rapidapi.com/pt/MASNathan/api/domain-checker7/).
 
 # HDC Host - English Version
 
@@ -31,18 +27,16 @@ HDC Host is a project developed using web technologies, including HTML, CSS, and
 
 ### Resources and Technologies Used
 
-+ HTML: Used to structure the page content.
-+ CSS: Responsible for the design and visual style of the website.
-+ JavaScript: Implemented to make the page interactive and dynamic.
-+ Domain Check API: We integrated the Domain Check API to enable real-time domain availability verification.
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
++ <b>Domain Check API</b>: We integrated the Domain Check API to enable real-time domain availability verification.
 
 ### Features
 
-+ Plans and Benefits: Detailed presentation of the plans offered by the company, along with the benefits of each one.
-+ Contact Forms: We provide contact forms to facilitate communication with our customers.
-+ Domain Availability Check: We offer a functionality that allows users to quickly and efficiently check the availability of a domain, based on integration with the Domain Check API.
++ <b>Plans and Benefits</b>: Detailed presentation of the plans offered by the company, along with the benefits of each one.
++ <b>Contact Forms</b>: We provide contact forms to facilitate communication with our customers.
++ <b>Domain Availability Check</b>: We offer a functionality that allows users to quickly and efficiently check the availability of a domain, based on integration with the Domain Check API.
 
 ### Visualization  
-View to access the site click on the link alongside: [HDC Host](https://hdc-host-1.netlify.app/). <br>
-To gain access to the project figma, click the link alongside: [Figma](https://www.figma.com/file/7UfovFzsc5quec8a7Db11k/hdc-host?type=design&node-id=0%3A1&mode=design&t=OixkMsyrOFI7ILoC-1).<br> 
-API used in the project: [ApiRapid](https://rapidapi.com/pt/MASNathan/api/domain-checker7/).
+<b>View to access the site click on the link alongside</b>: [HDC Host](https://hdc-host-1.netlify.app/). <br>
+<b>To gain access to the project figma, click the link alongside</b>: [Figma](https://www.figma.com/file/7UfovFzsc5quec8a7Db11k/hdc-host?type=design&node-id=0%3A1&mode=design&t=OixkMsyrOFI7ILoC-1).<br> 
+<b>API used in the project</b>: [ApiRapid](https://rapidapi.com/pt/MASNathan/api/domain-checker7/).
